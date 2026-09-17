@@ -1,0 +1,6 @@
+CREATE TABLE person (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    first VARCHAR(100),
+    middle VARCHAR(100),
+    last VARCHAR(100)
+);
